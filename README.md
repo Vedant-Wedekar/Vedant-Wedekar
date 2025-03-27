@@ -12,7 +12,7 @@ Hi there, I'm Vedant! 👋<br>🚀 Currently working on: Building web applicatio
 ![](https://github-readme-stats.vercel.app/api?username=Vedant-Wedekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedant-Wedekar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-Wedekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Vedant-Wedekar" alt="GitHub Streak" /></a>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Vedant-Wedekar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
