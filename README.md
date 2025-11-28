@@ -1,3 +1,5 @@
+
+
 # 💫 About Me:
 Hi there, I'm Vedant! 👋<br>🚀 Currently working on: Building web applications with React, Tailwind, and Framer Motion. Also exploring full-stack development.<br><br>🤝 Looking to collaborate on: Frontend and full-stack projects, especially those that involve creative UI/UX and real-world problem-solving.<br><br>❓ Looking for help with: Improving my DSA skills and writing efficient, optimized code. Always open to learning new best practices!<br><br>📚 Currently learning: Advanced React concepts, backend development, and LeetCode problem-solving.<br><br>
 
