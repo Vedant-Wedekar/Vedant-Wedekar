@@ -4,6 +4,7 @@
 Hi there, I'm Vedant! 👋<br>🚀 Currently working on: Building web applications with React, Tailwind, and Framer Motion. Also exploring full-stack development.<br><br>🤝 Looking to collaborate on: Frontend and full-stack projects, especially those that involve creative UI/UX and real-world problem-solving.<br><br>❓ Looking for help with: Improving my DSA skills and writing efficient, optimized code. Always open to learning new best practices!<br><br>📚 Currently learning: Advanced React concepts, backend development, and LeetCode problem-solving.<br><br>
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pvt__.ved) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Vedant-Wedekar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vedant-Wedekar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedantwedekar@gmail.com) 
 
